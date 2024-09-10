@@ -1,12 +1,12 @@
-#aws_permissions
+aws_permissions
 -----
-## Descripcion
+Descripcion
  >  Este script realiza la enumeracion de todos los permisos de una cuenta de AWS, lista el nombre de la politica, ARN y los permisos asociados a la politica
     
     Nota: se deben configurar las credenciales del usuario en el perfil por defecto de aws CLI que se desea enumerar
     
 ------
-##Requisitos
+Requisitos
 
 aws clic
 
