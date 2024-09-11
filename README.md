@@ -23,9 +23,9 @@ pip install boto3 / pip3 install boto3
 	cd aws
 	python aws_permissions.py
 	
-	En este punto solicitara el usuario
+En este punto solicitara el usuario
 	
-	Introduce el nombre del usuario de AWS: privesc
+Introduce el nombre del usuario de AWS: privesc
     
 
 ![](https://raw.githubusercontent.com/passwdd/aws/main/images/Enum_AWS.png)
