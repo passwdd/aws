@@ -35,6 +35,7 @@ Nota: Usa credenciales con permisos de lectura IAM (ej. iam:List*, iam:Get*) par
 ## Instalación
 
 git clone https://github.com/passwdd/aws.git
+
 cd aws
 
 ## Uso
