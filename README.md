@@ -46,7 +46,7 @@ La herramienta solicitará el nombre del usuario IAM con el cual se realizara la
 	
 Introduce el nombre del usuario de AWS: privesc // usuario de prueba
 
-En este punto la herramienta analizar los permisos IAM y genera un reporte con los hallazgos mas relevantes
+En este punto la herramienta analiza los permisos IAM y genera un reporte con los hallazgos mas relevantes
 
 Salida (ejemplo)
 
