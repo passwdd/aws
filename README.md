@@ -1,7 +1,8 @@
 aws_permissions
 -----
 ## Descripcion
- >  Herramienta en Python (boto3) para **enumerar permisos en una cuenta de AWS** a partir de un usuario IAM.  
+ >  Herramienta en Python (boto3) para **enumerar permisos en una cuenta de AWS** a partir de un usuario IAM  
+
 Lista para cada política asociada:
 - Nombre de la política
 - ARN
