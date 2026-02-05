@@ -16,7 +16,6 @@ Esta información permite **auditar permisos**, apoyar revisiones de **mínimo p
 - Apoyo a hardening y reducción de privilegios
     
 ------
-## Requisitos
 
 ## Requisitos
 - AWS CLI instalado y configurado  
