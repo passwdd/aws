@@ -48,15 +48,11 @@ Introduce el nombre del usuario de AWS: privesc // usuario de prueba
 
 En este punto la herramienta analiza los permisos IAM y genera un reporte con los hallazgos mas relevantes
 
-Salida (ejemplo)
-
 Ejemplo de salida esperada:
 
-PolicyName: <NOMBRE>
-
-PolicyArn: <ARN>
-
-Actions: <LISTA_DE_ACCIONES>
+-PolicyName: <NOMBRE>
+-PolicyArn: <ARN>
+-Actions: <LISTA_DE_ACCIONES>
 
 ![](https://raw.githubusercontent.com/passwdd/aws/main/images/Enum_AWS.png)
 
