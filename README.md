@@ -42,9 +42,9 @@ cd aws
 
 python aws_permissions.py
 	
-La herramienta solicitará el nombre del usuario IAM con el cual se realizara la validación:
+La herramienta solicitará el nombre del usuario IAM con el cual se realizara la validación
 	
-Introduce el nombre del usuario de AWS: privesc
+Introduce el nombre del usuario de AWS: privesc // usuario de prueba
 
 En este punto la herramienta analizar los permisos IAM y genera un reporte con los hallazgos mas relevantes
 
