@@ -50,9 +50,9 @@ En este punto la herramienta analiza los permisos IAM y genera un reporte con lo
 
 Ejemplo de salida esperada:
 
--PolicyName: <NOMBRE>
--PolicyArn: <ARN>
--Actions: <LISTA_DE_ACCIONES>
+- PolicyName: <NOMBRE>
+- PolicyArn: <ARN>
+- Actions: <LISTA_DE_ACCIONES>
 
 ![](https://raw.githubusercontent.com/passwdd/aws/main/images/Enum_AWS.png)
 
